@@ -1,3 +1,3 @@
 JQuery - Image slide show effect
 
-Same effect as instagram.com
+The effect is used in http://instagram.com/
